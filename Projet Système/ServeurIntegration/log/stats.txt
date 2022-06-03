@@ -1,0 +1,4 @@
+test_server : nb_iterations = 1086: nbOpenBackServer = 1 : nbOpenProdServer = 1047
+logs : nb_iterations = 66
+copy_list : nbFileCopied = 17: nbFileRemoved = 6
+syncro_list : nbDifferentFile = 214
